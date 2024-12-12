@@ -1,1 +1,1 @@
-一个简易的express模板
+一个简易的使用express实现的视频点播的api接口
